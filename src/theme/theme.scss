@@ -1,0 +1,52 @@
+// Cores Primárias
+$primary-color: #4a90e2;       
+$primary-light: #81b3f2;
+$primary-dark: #357ABD;
+
+$secondary-color: #50e3c2;      
+$secondary-light: #a1f3df;
+$secondary-dark: #2ac4a4;
+
+// Cores de Apoio
+$accent-color: #f5a623;       
+$accent-light: #f7c672;
+$accent-dark: #d4881a;
+
+$danger-color: #e74c3c;         
+$danger-light: #f2968a;
+$danger-dark: #c0392b;
+
+$warning-color: #f1c40f;       
+$warning-light: #f5d76e;
+$warning-dark: #d4ac0d;
+
+$success-color: #2ecc71;       
+$success-light: #72e6a3;
+$success-dark: #27ae60;
+
+// Cores Neutras
+$white: #ffffff;
+$light-gray: #f0f0f0;
+$gray: #bdc3c7;
+$dark-gray: #7f8c8d;
+$black: #2c3e50;
+
+// Gradientes
+$gradient-primary: linear-gradient(45deg, $primary-color, $primary-light);
+$gradient-secondary: linear-gradient(45deg, $secondary-color, $secondary-light);
+
+// Tipografia
+$font-family: 'Roboto', sans-serif;
+$heading-font-size: 2rem;
+$body-font-size: 1rem;
+
+// Espaçamentos
+$spacing-small: 8px;
+$spacing-medium: 16px;
+$spacing-large: 24px;
+
+// Sombras
+$box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+
+// Radius
+$border-radius: 4px;
